@@ -3,6 +3,9 @@ New repository that contains code for the challenge
 
 fetchrewards-challenge is a REST web service developed in Java using Spring Boot. It return true or false by checking whether the String supplied in the URL path follows the pyramid build or not.
 
+- Time complexity of the algorithm is O(n) where n = length of the input String
+- Space Complexity is of the order O(n) where n = length of the input String
+
 # Specifications:
 - Java version: 1.8
 - Spring Boot version: 2.3.4
