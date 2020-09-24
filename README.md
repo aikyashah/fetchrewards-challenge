@@ -4,9 +4,9 @@ New repository that contains code for the challenge
 fetchrewards-challenge is a REST web service developed in Java using Spring Boot. It return true or false by checking whether the String supplied in the URL path follows the pyramid build or not.
 
 # Specifications:
-Java version: 1.8
-Spring Boot version: 2.3.4
-Browser tested:  Chrome 85.0.4+, Firefox
+- Java version: 1.8
+- Spring Boot version: 2.3.4
+- Browser tested:  Chrome 85.0.4+, Firefox
 
 # How to checkout:
 1. Clone the repository in the IDE of your choice or click download zip. I have explained the steps for Eclipse IDE.
